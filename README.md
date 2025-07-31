@@ -13,7 +13,7 @@
 
 🚀 Mis áreas de interés actuales incluyen:
 
-- Desarrollo Frontend con **React**, **Vue** y **Astro**
+- Desarrollo Frontend con **React**, **Vue**, **Next.js** y **Astro**
 - Backend con **Node.js**, **Java**, **Python** y **PHP** 
 - Bases de datos **SQL** (MySQL, PostgreSQL) y **NoSQL** (MongoDB, BaaS como Firebase)
 - Próximamente: Inteligencia Artificial y Big Data con **Python**
