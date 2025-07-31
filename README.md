@@ -23,7 +23,7 @@
 ### 🛠️ Tecnologías y herramientas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,php,java,spring,nodejs,express,mongodb,mysql,postgres,firebase,git,github,py,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,php,java,py,nodejs,express,mongodb,mysql,postgres,firebase,git,github" />
 </p>
 
 ---
@@ -39,9 +39,9 @@
 
 ### 📫 ¿Hablamos?
 
-- 💼 [Portfolio](https://tu-portafolio.com)
-- 💬 [LinkedIn](https://linkedin.com/in/tu-usuario)
-- 📧 cristian.cantero@example.com
+- 💼 [Portfolio](https://www.cristiancantero.dev/)
+- 💬 [LinkedIn](https://es.linkedin.com/in/cristian-cantero-l%C3%B3pez)
+- 📧 cristiancanterolopez@gmail.com
 
 ---
 
