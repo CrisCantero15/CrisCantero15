@@ -1,22 +1,27 @@
 <h1 align="center">Hola, soy Cristian 👋</h1>
 <p align="center">
-  Desarrollador Full Stack Junior | Apasionado por la programación, el desarrollo web y la inteligencia artificial
+  Desarrollador Full Stack Junior | AI & Data Practitioner | Apasionado por la programación, el desarrollo web y la inteligencia artificial
 </p>
 
 ---
 
 ### 💻 Sobre mí
 
-🎓 Actualmente he finalizado un Grado Superior en Desarrollo de Aplicaciones Web (DAW) y en septiembre comienzo un Máster en Inteligencia Artificial y Big Data.
+🎓 Actualmente estoy cursando un **Máster en Inteligencia Artificial y Big Data** tras haber finalizado un Grado Superior en Desarrollo de Aplicaciones Web (DAW).
 
-💡 Me encanta construir soluciones web modernas, eficientes y accesibles. Estoy en constante aprendizaje y siempre dispuesto a asumir nuevos retos.
+💡 Me encanta construir soluciones modernas, eficientes y accesibles. He trabajado en proyectos personales como:
+ 
+- **Fantasy de pádel:** aplicación web para crear y gestionar equipos, consultar clasificaciones y novedades, con funcionalidades colaborativas que fomentan la interacción entre usuarios.
+- **Portafolio personal:** sitio web que exhibe mis proyectos de frontend y backend, mostrando experiencia práctica y habilidades técnicas.
+- **Modelo de IA con Red Neuronal Convolucional (CNN):** sistema de predicción de fracturas óseas a partir de radiografías, entrenado con técnicas de Deep Learning.
+- **Chatbot:** interfaz web de chat de texto conectada a una API pública de un LLM como Gemini, permitiendo interacción conversacional automatizada.
 
 🚀 Mis áreas de interés actuales incluyen:
 
-- Desarrollo Frontend con **React**, **Vue**, **Next.js** y **Astro**
+- Desarrollo Frontend con **JavaScript**, **React**, **Vue**, **Next.js** y **Astro**
 - Backend con **Node.js**, **Java**, **Python** y **PHP** 
 - Bases de datos **SQL** (MySQL, PostgreSQL) y **NoSQL** (MongoDB, BaaS como Firebase)
-- Próximamente: Ciencia de Datos, Inteligencia Artificial y tecnologías de Big Data
+- Ciencia de Datos, Inteligencia Artificial y tecnologías de Big Data
 
 ---
 
